@@ -10,3 +10,5 @@ The steps involved in our project are as follows:
     Step 3: Developing a search
     
     Step 4: Executing the search
+
+Since the dataset is huge it's difficult to upload the all the imagaes, please feel free to go through the documentation and run the code on your own set of images
