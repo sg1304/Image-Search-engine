@@ -3,7 +3,7 @@ The basic search engines we used today are Google, Bing etc. which are based on 
 
 The steps involved in our project are as follows: 
 
-    Step 1: Using a 3D color histogram as our Image Descriptor 
+    Step 1: Using a 3D color histogram and KAZE as our Image Descriptor 
     
     Step 2: Extracting Features from the dataset and storing them 
     
